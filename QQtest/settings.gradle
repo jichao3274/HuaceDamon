@@ -1,0 +1,1 @@
+include ':mytest', ':myapplication2', ':lib', ':bindservice', ':asynctasktest', ':intentservicetest', ':damontest'

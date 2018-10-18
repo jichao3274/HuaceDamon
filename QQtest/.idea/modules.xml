@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QQtest.iml" filepath="$PROJECT_DIR$/QQtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctasktest/asynctasktest.iml" filepath="$PROJECT_DIR$/asynctasktest/asynctasktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bindservice/bindservice.iml" filepath="$PROJECT_DIR$/bindservice/bindservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/damontest/damontest.iml" filepath="$PROJECT_DIR$/damontest/damontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentservicetest/intentservicetest.iml" filepath="$PROJECT_DIR$/intentservicetest/intentservicetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
+    </modules>
+  </component>
+</project>

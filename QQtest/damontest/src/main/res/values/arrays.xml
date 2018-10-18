@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="plain_arr">
+        <item>@color/c1</item>
+        <item>@color/c2</item>
+        <item>@color/c3</item>
+    </array>
+    <string-array name="string_arr">
+        <item>@string/c1</item>
+    </string-array>
+</resources>
